@@ -1,7 +1,7 @@
 name: "LAM: COVID-19 cases"
 output_dir: "."
 navbar:
-  title: "LAM: COVID-19 cases"
+  title: "Luis Alan Medina"
   left:
     - text: "Home"
       href: index.html
