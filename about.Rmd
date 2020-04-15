@@ -1,0 +1,5 @@
+---
+title: "COVID-19 cases"
+---
+
+COVID-19 data was retrieved from the City of El Paso Department of Public Health reports as cited by the City of El Paso press releases. 
